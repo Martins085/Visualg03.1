@@ -1,7 +1,9 @@
 Algoritmo "questão 6"
+// Disciplina:Lógica de Programação 
+// Professor:Fabricio Curvelo 
 // Fazer um programa que pergunte uma temperatura ao usuário, em graus Fahrenheit, e apresente esta
 //temperatura convertida em graus Celsius. A fórmula da conversão é c = (f – 32) x 5 : 9 , onde c é a temperatura
-//em graus Celsius e f em Fahrenheit
+//em graus Celsius e f em Fahrenheit.
 Var
 // Seção de Declarações das variáveis 
 f,c: real
